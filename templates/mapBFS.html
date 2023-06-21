@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_b265deaaac60174b1b801bcb4f3f7fd7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_b265deaaac60174b1b801bcb4f3f7fd7" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_b265deaaac60174b1b801bcb4f3f7fd7 = L.map(
+                "map_b265deaaac60174b1b801bcb4f3f7fd7",
+                {
+                    center: [55.606201171875, 49.278701782227],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_5df271dc74e98d8f1a6ae88902e27835 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_b265deaaac60174b1b801bcb4f3f7fd7);
+        
+    
+            var marker_379da8b52e750d568cf061329d423294 = L.marker(
+                [55.606201171875, 49.278701782227],
+                {}
+            ).addTo(map_b265deaaac60174b1b801bcb4f3f7fd7);
+        
+    
+            var icon_f052c2ee0f4b141223a6add2f8912d41 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plane", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_379da8b52e750d568cf061329d423294.setIcon(icon_f052c2ee0f4b141223a6add2f8912d41);
+        
+    
+        var popup_5fc728854df6f3a0767c8bb1ab431d3e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9d289f48ff0a10d67804cb8596656f5e = $(`<div id="html_9d289f48ff0a10d67804cb8596656f5e" style="width: 100.0%; height: 100.0%;">Kazan International Airport</div>`)[0];
+                popup_5fc728854df6f3a0767c8bb1ab431d3e.setContent(html_9d289f48ff0a10d67804cb8596656f5e);
+            
+        
+
+        marker_379da8b52e750d568cf061329d423294.bindPopup(popup_5fc728854df6f3a0767c8bb1ab431d3e)
+        ;
+
+        
+    
+    
+            var marker_6d4ef7f9dbf5d7dbdb5b4bfe5eea9c56 = L.marker(
+                [56.743099212646, 60.802700042725],
+                {}
+            ).addTo(map_b265deaaac60174b1b801bcb4f3f7fd7);
+        
+    
+            var icon_43b7563a98ba19bd30fe3a33d46387ea = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plane", "iconColor": "white", "markerColor": "green", "prefix": "fa"}
+            );
+            marker_6d4ef7f9dbf5d7dbdb5b4bfe5eea9c56.setIcon(icon_43b7563a98ba19bd30fe3a33d46387ea);
+        
+    
+        var popup_6a46103087094d00485a57b7c250d1b6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5476d77e2ddc92a59203f325a28fdb47 = $(`<div id="html_5476d77e2ddc92a59203f325a28fdb47" style="width: 100.0%; height: 100.0%;">Koltsovo Airport</div>`)[0];
+                popup_6a46103087094d00485a57b7c250d1b6.setContent(html_5476d77e2ddc92a59203f325a28fdb47);
+            
+        
+
+        marker_6d4ef7f9dbf5d7dbdb5b4bfe5eea9c56.bindPopup(popup_6a46103087094d00485a57b7c250d1b6)
+        ;
+
+        
+    
+    
+            var poly_line_51f67c29e2024dcaea773addb807732f = L.polyline(
+                [[55.606201171875, 49.278701782227], [56.743099212646, 60.802700042725]],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "purple", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.5, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(map_b265deaaac60174b1b801bcb4f3f7fd7);
+        
+    
+        var popup_3ab5cc66569151f774e420f276f24b92 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_803ce08ff0dc4c3c501a12eee9b8795a = $(`<div id="html_803ce08ff0dc4c3c501a12eee9b8795a" style="width: 100.0%; height: 100.0%;">Distancia: 725.9664505824329</div>`)[0];
+                popup_3ab5cc66569151f774e420f276f24b92.setContent(html_803ce08ff0dc4c3c501a12eee9b8795a);
+            
+        
+
+        poly_line_51f67c29e2024dcaea773addb807732f.bindPopup(popup_3ab5cc66569151f774e420f276f24b92)
+        ;
+
+        
+    
+</script>
+</html>

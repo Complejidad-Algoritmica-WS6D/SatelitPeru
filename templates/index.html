@@ -1,0 +1,75 @@
+{% extends "main.html" %}
+
+{% block content %}
+<div>
+    <h1>Planificación de rutas para la construcción de una red de distribución eléctrica</h1>
+    
+    <h2> {{ caminokrukal }}</h2>
+    <form action="{{ url_for('index')}}" method="post">
+
+        <label for="provincias">Provincia:</label>
+        <select id="provincias" name="provincias">
+          <option value="">Selecciona una provincia</option>
+        </select>
+        
+        
+        <button type="submit">Calcular</button>
+    </form>
+</div>
+
+
+<h2 style="margin-top: 5vh;">Mapa mostrando el MST - Kruskal</h2>
+
+<iframe class="mapa" src="{{ url_for('mapaKruskal') }}"></iframe>
+
+
+<script>
+    // Lista de provincias con sus valores
+    const provincias = [
+      { nombre: "Lima", value: "lima" },
+      { nombre: "Arequipa", value: "arequipa" },
+      { nombre: "Cusco", value: "cusco" },
+      { nombre: "Piura", value: "piura" },
+      { nombre: "La Libertad", value: "lalibertad" },
+      { nombre: "Lambayeque", value: "lambayeque" },
+      { nombre: "Junín", value: "junin" },
+      { nombre: "Puno", value: "puno" },
+      { nombre: "Ancash", value: "ancash" },
+      { nombre: "Ica", value: "ica" },
+      { nombre: "Tacna", value: "tacna" },
+      { nombre: "Cajamarca", value: "cajamarca" },
+      { nombre: "Callao", value: "callao" },
+      { nombre: "Loreto", value: "loreto" },
+      { nombre: "Ucayali", value: "ucayali" },
+      { nombre: "San Martín", value: "sanmartin" },
+      { nombre: "Huánuco", value: "huanuco" },
+      { nombre: "Ayacucho", value: "ayacucho" },
+      { nombre: "Amazonas", value: "amazonas" },
+      { nombre: "Pasco", value: "pasco" },
+      { nombre: "Moquegua", value: "moquegua" },
+      { nombre: "Madre de Dios", value: "madrededios" },
+      { nombre: "Tumbes", value: "tumbes" },
+      { nombre: "Huancavelica", value: "huancavelica" },
+      { nombre: "Apurímac", value: "apurimac" },
+      { nombre: "Ayacucho", value: "ayacucho" },
+      { nombre: "Huancavelica", value: "huancavelica" },
+      { nombre: "Apurímac", value: "apurimac" },
+      { nombre: "Pasco", value: "pasco" },
+      { nombre: "Moquegua", value: "moquegua" },
+      { nombre: "Madre de Dios", value: "madrededios" },
+      { nombre: "Tumbes", value: "tumbes" },
+      // Agrega más provincias aquí...
+    ];
+
+    const selectProvincias = document.getElementById("provincias");
+
+    // Agrega las opciones al select
+    provincias.forEach((provincia) => {
+      const option = document.createElement("option");
+      option.text = provincia.nombre;
+      option.value = provincia.value;
+      selectProvincias.appendChild(option);
+    });
+</script>
+
+{% endblock %}

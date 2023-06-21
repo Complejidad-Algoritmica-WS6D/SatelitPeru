@@ -1,0 +1,85 @@
+﻿id,village,province,department,latitude,longitude,altitude
+1,La Jalca,La Jalca,Amazonas,-6.416808333,-77.82256667,89
+2,Caclic,Huancas,Amazonas,-6.399118333,-77.81768667,-65
+3,El Tapial,Huancas,Amazonas,-6.482069975,-77.80897999,-65
+4,Asuncion,Goncha,Amazonas,-6.487001667,-77.80652,769
+5,Vista Hermosa,Goncha,Amazonas,-6.49757,-77.834135,769
+6,Chorro,Goncha,Amazonas,-6.498981667,-77.84242667,588
+7,Rachil,Goncha,Amazonas,-6.478825,-77.86022,588
+8,Batan,Goncha,Amazonas,-6.496288333,-77.85324,588
+9,Pollan,Goncha,Amazonas,-6.512981667,-77.84776,735
+10,Siogue,Goncha,Amazonas,-6.488433333,-77.83858833,735
+11,Astra,Goncha,Amazonas,-6.518435,-77.83729333,10
+12,Odon,Goncha,Amazonas,-6.518833333,-77.83723167,42
+13,Laran,Quinjalca,Amazonas,-6.482503333,-77.83484,411
+14,Vence,Quinjalca,Amazonas,-6.509988333,-77.82425333,411
+15,Granada,San Pedro de Yambajalca,Amazonas,-6.503631667,-77.82717167,411
+16,Sugmal,Diosan / San Pedro de Yambajalca,Amazonas,-6.493861667,-77.81357333,411
+17,Diosan,Diosan / San Pedro de Yambajalca,Amazonas,-6.504401667,-77.82243,411
+18,Calviche,San Pedro de Yambajalca,Amazonas,-6.50924,-77.82064333,411
+19,Guillipcha,San Pedro de Yambajalca,Amazonas,-6.50786,-77.81351667,411
+20,Saviajcha,San Pedro de Yambajalca,Amazonas,-6.511876667,-77.81574167,78
+21,Camellan,San Pedro de Yambajalca,Amazonas,-6.524993333,-77.814045,78
+22,Chillan,San Pedro de Yambajalca,Amazonas,-6.511273333,-77.80773333,78
+23,Airecampo,Diosan / San Pedro de Yambajalca,Amazonas,-6.5325,-77.8115,1054
+24,Gorge,Diosan / San Pedro de Yambajalca,Amazonas,-6.528345,-77.82256,643
+25,Shundura,San Pedro de Yambajalca,Amazonas,-6.519731667,-77.826335,643
+26,San Juan De Eñara,San Juan de Eñara / San Pedro de Yambajalca,Amazonas,-6.514218333,-77.82511333,643
+27,Huancas,Huancas,Amazonas,-6.525763333,-77.82183333,643
+28,Yunga,Huancas,Amazonas,-6.53239,-77.821565,177
+29,La Hoya,Huancas,Amazonas,-6.531591667,-77.826835,177
+30,La Pitaya,Huancas,Amazonas,-6.533138333,-77.83191167,210
+31,Maray Pampa,Huancas,Amazonas,-6.539723333,-77.81572833,365
+32,Cajshej,La Jalca,Amazonas,-6.55843,-77.814255,365
+33,Quishual,La Jalca,Amazonas,-6.550201667,-77.82745,764
+34,Samana,La Jalca,Amazonas,-6.547943333,-77.81977167,764
+35,Achupa,La Jalca,Amazonas,-6.460615,-77.82393333,764
+36,Buenavista,La Jalca,Amazonas,-6.457778333,-77.83907833,764
+37,Huacas,La Jalca,Amazonas,-6.490521667,-77.81014,764
+38,Nuevo Huacas,La Jalca,Amazonas,-6.49094,-77.80478333,991
+39,Yumal,La Jalca,Amazonas,-6.498925,-77.81066,991
+40,Shingache,La Jalca,Amazonas,-6.505918333,-77.82178,991
+41,Buiquil,La Jalca,Amazonas,-6.51115,-77.83945833,1610
+42,Quimbaleran,La Jalca,Amazonas,-6.50588,-77.83376333,1610
+43,Monstis,La Jalca,Amazonas,-6.416808333,-77.82256667,89
+44,Pachaj,La Jalca,Amazonas,-6.399118333,-77.81768667,-65
+45,Alonso De Alvarado,La Jalca,Amazonas,-6.482069975,-77.80897999,-65
+46,Teneria,La Jalca,Amazonas,-6.487001667,-77.80652,769
+47,San Pedro Cruz,La Jalca,Amazonas,-6.49757,-77.834135,769
+48,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588
+49,Shoime,La Jalca,Amazonas,-6.478825,-77.86022,588
+50,Zuta,La Jalca,Amazonas,-6.496288333,-77.85324,588
+51,Canguillo,La Jalca,Amazonas,-6.512981667,-77.84776,735
+52,Ubilon,La Jalca,Amazonas,-6.488433333,-77.83858833,735
+53,Zetenas,La Jalca,Amazonas,-6.518435,-77.83729333,10
+54,Shihual,La Jalca,Amazonas,-6.518833333,-77.83723167,42
+55,Cuanche,La Jalca,Amazonas,-6.482503333,-77.83484,411
+56,Tolape,La Jalca,Amazonas,-6.509988333,-77.82425333,411
+57,Yumpe (Nuevo Yumpe),La Jalca,Amazonas,-6.503631667,-77.82717167,411
+58,Cashlon,La Jalca,Amazonas,-6.493861667,-77.81357333,411
+59,Calatij,La Jalca,Amazonas,-6.504401667,-77.82243,411
+60,Potquin,La Jalca,Amazonas,-6.50924,-77.82064333,411
+61,Cuito,La Jalca,Amazonas,-6.50786,-77.81351667,411
+62,Lopetranca,La Jalca,Amazonas,-6.511876667,-77.81574167,78
+63,Lamilan,La Jalca,Amazonas,-6.524993333,-77.814045,78
+64,Cueyqueta,La Jalca,Amazonas,-6.511273333,-77.80773333,78
+65,Tiolomo,La Jalca,Amazonas,-6.5325,-77.8115,1054
+66,Chacango,La Jalca,Amazonas,-6.528345,-77.82256,643
+67,Ponga,La Jalca,Amazonas,-6.519731667,-77.826335,643
+68,Caulingas,La Jalca,Amazonas,-6.514218333,-77.82511333,643
+69,Usquita,La Jalca,Amazonas,-6.525763333,-77.82183333,643
+70,Lojshol,La Jalca,Amazonas,-6.53239,-77.821565,177
+71,Cuchcat,La Jalca,Amazonas,-6.531591667,-77.826835,177
+72,Quelucas,La Jalca,Amazonas,-6.533138333,-77.83191167,210
+73,Justamante,La Jalca,Amazonas,-6.539723333,-77.81572833,365
+74,Pengote,La Jalca,Amazonas,-6.55843,-77.814255,365
+75,Quillunya,La Jalca,Amazonas,-6.550201667,-77.82745,764
+76,Loquin,La Jalca,Amazonas,-6.547943333,-77.81977167,764
+77,Quiusha,La Jalca,Amazonas,-6.460615,-77.82393333,764
+78,Nuevo Progreso,La Jalca,Amazonas,-6.457778333,-77.83907833,764
+79,Ramos Pampa,La Jalca,Amazonas,-6.490521667,-77.81014,764
+80,Tayancpata,La Jalca,Amazonas,-6.49094,-77.80478333,991
+81,Tajsh Cuchia,La Jalca,Amazonas,-6.498925,-77.81066,991
+82,Tres Cruces,La Jalca,Amazonas,-6.505918333,-77.82178,991
+83,Cuyto Fila,La Jalca,Amazonas,-6.51115,-77.83945833,1610
+84,Pajpata,La Jalca,Amazonas,-6.50588,-77.83376333,1610

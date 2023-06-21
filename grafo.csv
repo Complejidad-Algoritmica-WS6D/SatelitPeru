@@ -1,0 +1,57 @@
+﻿sourceId,source_village,source_province,source_departament,source_latitude,source_longitude,source_altitude,destination_id,destination_village,destination_province,destination_departament,destination_latitud,destination_longitud,destination_altitud,distance
+1,La Jalca,Chachapoyas,Amazonas,-6.484611403,-77.81497973,89,4,Monstis,La Jalca,Amazonas,-6.416808333,-77.82256667,89,10.8
+1,La Jalca,Chachapoyas,Amazonas,-6.484611403,-77.81497973,89,2,Caclic,Huancas,Amazonas,-6.200754867,-77.9019329,-65,96
+1,La Jalca,Chachapoyas,Amazonas,-6.484611403,-77.81497973,89,5,El Tapial,Huancas,Amazonas,-6.208262882,-77.86756189,-65,58.5
+1,La Jalca,Chachapoyas,Amazonas,-6.484611403,-77.81497973,89,6,Asuncion,Goncha,Amazonas,-6.032451108,-77.71080764,769,25.8
+1,La Jalca,Chachapoyas,Amazonas,-6.484611403,-77.81497973,89,7,Vista Hermosa,Goncha,Amazonas,-5.96345,-77.75655,769,56.8
+2,Caclic,Chachapoyas,Amazonas,-6.200754867,-77.9019329,-65,4,Monstis,La Jalca,Amazonas,-6.416808333,-77.82256667,89,10.8
+2,Caclic,Chachapoyas,Amazonas,-6.200754867,-77.9019329,-65,7,Vista Hermosa,Goncha,Amazonas,-5.96345,-77.75655,769,81.4
+2,Caclic,Chachapoyas,Amazonas,-6.200754867,-77.9019329,-65,9,Rachil,Goncha,Amazonas,-5.983951667,-77.734595,588,60.7
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,84
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,25.8
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,58.5
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,97.6
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,47.9
+4,Monstis,Chachapoyas,Amazonas,-6.416808333,-77.82256667,89,5,Batan,Goncha,Amazonas,-5.992161667,-77.73050167,588,20.1
+4,Monstis,Chachapoyas,Amazonas,-6.416808333,-77.82256667,89,2,Caclic,Huancas,Amazonas,-6.200754867,-77.9019329,-65,61.8
+2,Caclic,Chachapoyas,Amazonas,-6.200754867,-77.9019329,-65,46,Pachaj,La Jalca,Amazonas,-6.399118333,-77.81768667,-65,39.9
+5,El Tapial,Chachapoyas,Amazonas,-6.208262882,-77.86756189,-65,47,Alonso De Alvarado,La Jalca,Amazonas,-6.482069975,-77.80897999,-65,31.6
+6,Asuncion,Chachapoyas,Amazonas,-6.032451108,-77.71080764,769,48,Teneria,La Jalca,Amazonas,-6.487001667,-77.80652,769,2.3
+7,Vista Hermosa,Chachapoyas,Amazonas,-5.96345,-77.75655,769,49,San Pedro Cruz,La Jalca,Amazonas,-6.49757,-77.834135,769,96
+8,Chorro,Chachapoyas,Amazonas,-5.980118334,-77.738875,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,15
+9,Rachil,Chachapoyas,Amazonas,-5.983951667,-77.734595,588,50,Shoime,La Jalca,Amazonas,-6.478825,-77.86022,588,16.1
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,51,Zuta,La Jalca,Amazonas,-6.496288333,-77.85324,588,1.1
+11,Pollan,Chachapoyas,Amazonas,-5.998183333,-77.73401,735,52,Canguillo,La Jalca,Amazonas,-6.512981667,-77.84776,735,23.8
+12,Siogue,Chachapoyas,Amazonas,-5.987611667,-77.74364,735,53,Ubilon,La Jalca,Amazonas,-6.488433333,-77.83858833,735,58.5
+13,Astra,Chachapoyas,Amazonas,-6.01698,-77.72614,10,54,Zetenas,La Jalca,Amazonas,-6.518435,-77.83729333,10,68.8
+14,Odon,Chachapoyas,Amazonas,-6.036668333,-77.705895,42,55,Shihual,La Jalca,Amazonas,-6.518833333,-77.83723167,42,81.4
+15,Laran,Chachapoyas,Amazonas,-6.042728333,-77.76132667,411,56,Cuanche,La Jalca,Amazonas,-6.482503333,-77.83484,411,43.2
+16,Vence,Chachapoyas,Amazonas,-6.053575,-77.77169667,411,57,Tolape,La Jalca,Amazonas,-6.509988333,-77.82425333,411,25.8
+17,Granada,Chachapoyas,Amazonas,-6.106505493,-77.62870829,411,58,Yumpe (Nuevo Yumpe),La Jalca,Amazonas,-6.503631667,-77.82717167,411,20.1
+18,Sugmal,Chachapoyas,Amazonas,-6.088003333,-77.64107167,411,59,Cashlon,La Jalca,Amazonas,-6.493861667,-77.81357333,411,90.1
+19,Diosan,Chachapoyas,Amazonas,-6.102885,-77.62817167,411,60,Calatij,La Jalca,Amazonas,-6.504401667,-77.82243,411,97.6
+20,Calviche,Chachapoyas,Amazonas,-6.123179974,-77.62405999,411,61,Potquin,La Jalca,Amazonas,-6.50924,-77.82064333,411,56.8
+21,Guillipcha,Chachapoyas,Amazonas,-6.124289975,-77.61592999,411,62,Cuito,La Jalca,Amazonas,-6.50786,-77.81351667,411,60.7
+22,Saviajcha,Chachapoyas,Amazonas,-6.129819974,-77.60570999,78,63,Lopetranca,La Jalca,Amazonas,-6.511876667,-77.81574167,78,7.8
+23,Camellan,Chachapoyas,Amazonas,-6.128109974,-77.62500999,78,64,Lamilan,La Jalca,Amazonas,-6.524993333,-77.814045,78,32.8
+24,Chillan,Chachapoyas,Amazonas,-6.145889974,-77.55682999,78,65,Cueyqueta,La Jalca,Amazonas,-6.511273333,-77.80773333,78,10.8
+25,Airecampo,Chachapoyas,Amazonas,-6.097655,-77.63272833,1054,66,Tiolomo,La Jalca,Amazonas,-6.5325,-77.8115,1054,39.9
+26,Gorge,Chachapoyas,Amazonas,-6.095053333,-77.63719833,643,67,Chacango,La Jalca,Amazonas,-6.528345,-77.82256,643,31.6
+27,Shundura,Chachapoyas,Amazonas,-6.107083333,-77.61906167,643,68,Ponga,La Jalca,Amazonas,-6.519731667,-77.826335,643,2.3
+28,San Juan De Eñara,Chachapoyas,Amazonas,-6.135471194,-77.58459227,643,69,Caulingas,La Jalca,Amazonas,-6.514218333,-77.82511333,643,47.9
+29,Huancas,Chachapoyas,Amazonas,-6.173689647,-77.86444035,643,70,Usquita,La Jalca,Amazonas,-6.525763333,-77.82183333,643,41.6
+30,Yunga,Chachapoyas,Amazonas,-6.147213333,-77.90377833,177,71,Lojshol,La Jalca,Amazonas,-6.53239,-77.821565,177,61.8
+31,La Hoya,Chachapoyas,Amazonas,-6.191741667,-77.87746333,177,72,Cuchcat,La Jalca,Amazonas,-6.531591667,-77.826835,177,15
+32,La Pitaya,Chachapoyas,Amazonas,-6.16028,-77.904165,210,73,Quelucas,La Jalca,Amazonas,-6.533138333,-77.83191167,210,97.2
+33,Maray Pampa,Chachapoyas,Amazonas,-6.1817,-77.870965,365,74,Justamante,La Jalca,Amazonas,-6.539723333,-77.81572833,365,59.2
+34,Cajshej,Chachapoyas,Amazonas,-6.452038333,-77.86081833,365,75,Pengote,La Jalca,Amazonas,-6.55843,-77.814255,365,41
+35,Quishual,Chachapoyas,Amazonas,-6.467753333,-77.84808833,764,76,Quillunya,La Jalca,Amazonas,-6.550201667,-77.82745,764,41.8
+36,Samana,Chachapoyas,Amazonas,-6.471595,-77.83760167,764,77,Loquin,La Jalca,Amazonas,-6.547943333,-77.81977167,764,22
+37,Achupa,Chachapoyas,Amazonas,-6.465256667,-77.83607167,764,78,Quiusha,La Jalca,Amazonas,-6.460615,-77.82393333,764,78.5
+38,Buenavista,Chachapoyas,Amazonas,-6.46598,-77.831735,764,79,Nuevo Progreso,La Jalca,Amazonas,-6.457778333,-77.83907833,764,49.8
+39,Huacas,Chachapoyas,Amazonas,-6.48379,-77.8372,764,80,Ramos Pampa,La Jalca,Amazonas,-6.490521667,-77.81014,764,86.4
+40,Nuevo Huacas,Chachapoyas,Amazonas,-6.464271667,-77.83197167,991,81,Tayancpata,La Jalca,Amazonas,-6.49094,-77.80478333,991,84
+41,Yumal,Chachapoyas,Amazonas,-6.471896667,-77.81876167,991,82,Tajsh Cuchia,La Jalca,Amazonas,-6.498925,-77.81066,991,17.8
+42,Shingache,Chachapoyas,Amazonas,-6.468318333,-77.80540833,991,83,Tres Cruces,La Jalca,Amazonas,-6.505918333,-77.82178,991,47.1
+43,Buiquil,Chachapoyas,Amazonas,-6.456865,-77.84216,1610,84,Cuyto Fila,La Jalca,Amazonas,-6.51115,-77.83945833,1610,56.6
+44,Quimbaleran,Chachapoyas,Amazonas,-6.444011667,-77.84733,1610,85,Pajpata,La Jalca,Amazonas,-6.50588,-77.83376333,1610,98.9

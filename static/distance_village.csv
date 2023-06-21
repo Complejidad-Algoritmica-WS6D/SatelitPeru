@@ -1,0 +1,17 @@
+﻿sourceId,source_village,source_province,source_departament,source_latitude,source_longitude,source_altitude,destination_id,destination_village,destination_province,destination_departament,destination_latitud,destination_longitud,destination_altitud,distance
+1,La Jalca,Chachapoyas,Amazonas,-6.484611403,-77.81497973,89,4,Monstis,La Jalca,Amazonas,-6.416808333,-77.82256667,89,10.8
+1,La Jalca,Chachapoyas,Amazonas,-6.484611403,-77.81497973,89,2,Caclic,Huancas,Amazonas,-6.200754867,-77.9019329,-65,96
+1,La Jalca,Chachapoyas,Amazonas,-6.484611403,-77.81497973,89,5,El Tapial,Huancas,Amazonas,-6.208262882,-77.86756189,-65,58.5
+1,La Jalca,Chachapoyas,Amazonas,-6.484611403,-77.81497973,89,6,Asuncion,Goncha,Amazonas,-6.032451108,-77.71080764,769,25.8
+1,La Jalca,Chachapoyas,Amazonas,-6.484611403,-77.81497973,89,7,Vista Hermosa,Goncha,Amazonas,-5.96345,-77.75655,769,56.8
+2,Caclic,Chachapoyas,Amazonas,-6.200754867,-77.9019329,-65,4,Monstis,La Jalca,Amazonas,-6.416808333,-77.82256667,89,10.8
+2,Caclic,Chachapoyas,Amazonas,-6.200754867,-77.9019329,-65,7,Vista Hermosa,Goncha,Amazonas,-5.96345,-77.75655,769,81.4
+2,Caclic,Chachapoyas,Amazonas,-6.200754867,-77.9019329,-65,9,Rachil,Goncha,Amazonas,-5.983951667,-77.734595,588,60.7
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,84
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,25.8
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,58.5
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,97.6
+5,Batan,Chachapoyas,Amazonas,-5.992161667,-77.73050167,588,45,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588,47.9
+4,Monstis,Chachapoyas,Amazonas,-6.416808333,-77.82256667,89,5,Batan,Goncha,Amazonas,-5.992161667,-77.73050167,588,20.1
+4,Monstis,Chachapoyas,Amazonas,-6.416808333,-77.82256667,89,2,Caclic,Huancas,Amazonas,-6.200754867,-77.9019329,-65,61.8
+2,Caclic,Chachapoyas,Amazonas,-6.200754867,-77.9019329,-65,46,Pachaj,La Jalca,Amazonas,-6.399118333,-77.81768667,-65,39.9
