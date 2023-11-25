@@ -1,0 +1,10 @@
+﻿sourceId,source_village,source_province,source_departament,source_latitude,source_longitude,source_altitude,destination_id,destination_village,destination_province,destination_departament,destination_latitud,destination_longitud,destination_altitud,distance
+86,Jichuyo Pamaya,Jichuyo Pamaya,Puno,-15.93008186,-70.03234402,643,88,Erpocco,Huallatani Millutayani anexos,Puno,-15.95908782,-70.15196229,177,10
+86,Jichuyo Pamaya,Jichuyo Pamaya,Puno,-15.9300819,-70.032344,643,85,Huallatani,Huallatani Millutayani anexos,Puno,-15.97794724,-70.19499399,643,15
+89,Patipiña,Huallatani Millutayani anexos,Puno,-15.97534782,-70.15906229,210,85,Huallatani,Huallatani Millutayani anexos,Puno,-15.97794724,-70.19499399,643,5
+89,Patipiña,Huallatani Millutayani anexos,Puno,-15.97534782,-70.15906229,210,88,Erpocco,Huallatani Millutayani anexos,Puno,-15.95908782,-70.15196229,177,3
+90,Millotayane,Huallatani Millutayani anexos,Puno,-15.92244606,-70.12583145,365,85,Huallatani,Huallatani Millutayani anexos,Puno,-15.97794724,-70.19499399,643,11
+91,Chimu Central,Chimu,Puno,-15.85352767,-69.9652948,365,90,Millotayane,Huallatani Millutayani anexos,Puno,-15.92244606,-70.12583145,365,25
+90,Millotayane,Huallatani Millutayani anexos,Puno,-15.92244606,-70.12583145,365,88,Erpocco,Huallatani Millutayani anexos,Puno,-15.95908782,-70.15196229,177,4
+85,Huallatani,Huallatani Millutayani anexos,Puno,-15.97794724,-70.19499399,643,88,Erpocco,Huallatani Millutayani anexos,Puno,-15.95908782,-70.15196229,177,7
+86,Jichuyo Pamaya,Jichuyo Pamaya,Puno,-15.9300819,-70.032344,643,91,Chimu Central,Chimu,Puno,-15.85352767,-69.9652948,365,15

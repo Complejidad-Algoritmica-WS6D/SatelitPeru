@@ -1,0 +1,141 @@
+{% extends "main.html" %}
+
+{% block content %}
+<div>
+  <header class="header">
+    <div class="logo">
+        SATELIT PERÚ
+    </div>
+    <nav>
+       <ul class="nav-links">
+            <li><a href="#grafo">Grafo Normal</a></li>
+            <li><a href="#kruskal">MST - Kruskal</a></li>
+            <li><a href="#prim">MST - Prim</a></li>
+       </ul>            
+    </nav>
+    <a class="btn" href="#"><button><img class="log"src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="Texto alternativo"></button></a>
+  </header>
+
+    <h1>Planificación de rutas para la construcción de una red de distribución eléctrica</h1>
+    
+    
+</div>
+
+<div class="cardall">
+
+  <div class="card3" >
+    <form action="{{ url_for('index')}}" method="post">
+        <label class="labell" for="provincias">Provincia:</label>
+        <select id="provincias" name="provincias">
+          <option value="">Selecciona una provincia</option>
+        </select>   
+        <button type="submit" class="red-button">CALCULAR</button>
+    </form>
+  </div>
+  <div class="card" id="grafo">
+    <div class="card-body">
+      <h2>Mapa grafo original</h2>
+      <iframe class="mapa" src="{{ url_for('mapa') }}"></iframe>
+      <h2 style="display: inline;">Km totales: <p style="display: inline;">{{ peso_grafo }} km</p></h2>
+      <h2 style="display: inline;">Costo total: <p style="display: inline;">$ {{ costoGrafo }} </p></h2>
+    </div>
+  </div>
+  <div class="card" id="kruskal">
+    <div class="card-body">
+      <h2 >Mapa mostrando el MST - Kruskal</h2>
+      <iframe class="mapa" src="{{ url_for('mapaKruskal') }}"></iframe>
+      <h2 style="display: inline;">Km totales: <p style="display: inline;">{{ peso_kruskal }} km</p></h2>
+      <h2 style="display: inline;">Costo total: <p style="display: inline;">$ {{ costoKruskal }} </p></h2>
+    </div>
+  </div>
+  <div class="card" id="prim">
+    <div class="card-body">
+      <h2 >Mapa mostrando el MST - Prim</h2>
+      <iframe class="mapa" src="{{ url_for('mapaPrim') }}"></iframe>
+      <h2 style="display: inline;">Km totales: <p style="display: inline;">{{ peso_prim }} km</p></h2>
+      <h2 style="display: inline;">Costo total: <p style="display: inline;">$ {{ costoPrim }} </p></h2>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-body">
+      <h2 >TABLA COMPARATIVA DE PROPUESTAS</h2>
+      <div class="tabla" >    
+      <table class="card4">
+        <tr>
+          <th class="card5">Grafo</th>
+          <th class="card5">Sin MST</th>
+          <th class="card5">MST - Kruskal</th>
+          <th class="card5">MST - Prim</th>
+        </tr>
+        <tr>
+          <td class="card5">Km</td>
+          <td class="card4">{{ peso_grafo }} km</td>
+          <td class="card4">{{ peso_kruskal}} km</td>
+          <td class="card4">{{ peso_prim }} km</td>
+
+        </tr>
+        <tr>
+          <td class="card5">USD</td>
+          <td class="card4">$ {{ costoGrafo }}</td>
+          <td class="card4">$ {{ costoKruskal }}</td>
+          <td class="card4">$ {{ costoPrim }}</td>
+        </tr>
+        
+      </table>
+    </div>
+    </div>
+  </div>
+
+</div>
+
+
+<script>
+    // Lista de provincias con sus valores
+    const provincias = [
+      //{ nombre: "Lima", value: "lima" },
+      //{ nombre: "Arequipa", value: "arequipa" },
+      { nombre: "Cusco", value: "cusco" },
+      { nombre: "Piura", value: "piura" },
+      { nombre: "La Libertad", value: "La Libertad" },
+      { nombre: "Lambayeque", value: "Lambayeque" },
+      { nombre: "Junín", value: "junin" },
+      { nombre: "Puno", value: "Puno" },
+      { nombre: "Ancash", value: "ancash" },
+      //{ nombre: "Ica", value: "ica" },
+      //{ nombre: "Tacna", value: "tacna" },
+      //{ nombre: "Cajamarca", value: "cajamarca" },
+      //{ nombre: "Callao", value: "callao" },
+      { nombre: "Loreto", value: "loreto" },
+      { nombre: "Ucayali", value: "ucayali" },
+      //{ nombre: "San Martín", value: "sanmartin" },
+      //{ nombre: "Huánuco", value: "huanuco" },
+      //{ nombre: "Ayacucho", value: "ayacucho" },
+      { nombre: "Amazonas", value: "Amazonas" },
+      //{ nombre: "Pasco", value: "pasco" },
+      //{ nombre: "Moquegua", value: "moquegua" },
+      //{ nombre: "Madre de Dios", value: "madrededios" },
+      //{ nombre: "Tumbes", value: "tumbes" },
+      //{ nombre: "Huancavelica", value: "huancavelica" },
+      //{ nombre: "Apurímac", value: "apurimac" },
+      //{ nombre: "Ayacucho", value: "ayacucho" },
+      //{ nombre: "Huancavelica", value: "huancavelica" },
+      { nombre: "Apurímac", value: "apurimac" },
+      //{ nombre: "Pasco", value: "pasco" },
+      //{ nombre: "Moquegua", value: "moquegua" },
+      //{ nombre: "Madre de Dios", value: "madrededios" },
+      //{ nombre: "Tumbes", value: "tumbes" },
+      // Agrega más provincias aquí...
+    ];
+
+    const selectProvincias = document.getElementById("provincias");
+
+    // Agrega las opciones al select
+    provincias.forEach((provincia) => {
+      const option = document.createElement("option");
+      option.text = provincia.nombre;
+      option.value = provincia.value;
+      selectProvincias.appendChild(option);
+    });
+</script>
+
+{% endblock %}

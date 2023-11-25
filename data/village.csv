@@ -1,0 +1,214 @@
+﻿id,village,province,department,latitude,longitude,altitude
+1,La Jalca,La Jalca,Amazonas,-6.416808333,-77.82256667,89
+2,Caclic,Huancas,Amazonas,-6.399118333,-77.81768667,-65
+3,El Tapial,Huancas,Amazonas,-6.482069975,-77.80897999,-65
+4,Asuncion,Goncha,Amazonas,-6.487001667,-77.80652,769
+5,Vista Hermosa,Goncha,Amazonas,-6.49757,-77.834135,769
+6,Chorro,Goncha,Amazonas,-6.498981667,-77.84242667,588
+7,Rachil,Goncha,Amazonas,-6.478825,-77.86022,588
+8,Batan,Goncha,Amazonas,-6.496288333,-77.85324,588
+9,Pollan,Goncha,Amazonas,-6.512981667,-77.84776,735
+10,Siogue,Goncha,Amazonas,-6.488433333,-77.83858833,735
+11,Astra,Goncha,Amazonas,-6.518435,-77.83729333,10
+12,Odon,Goncha,Amazonas,-6.518833333,-77.83723167,42
+13,Laran,Quinjalca,Amazonas,-6.482503333,-77.83484,411
+14,Vence,Quinjalca,Amazonas,-6.509988333,-77.82425333,411
+15,Granada,San Pedro de Yambajalca,Amazonas,-6.503631667,-77.82717167,411
+16,Sugmal,Diosan / San Pedro de Yambajalca,Amazonas,-6.493861667,-77.81357333,411
+17,Diosan,Diosan / San Pedro de Yambajalca,Amazonas,-6.504401667,-77.82243,411
+18,Calviche,San Pedro de Yambajalca,Amazonas,-6.50924,-77.82064333,411
+19,Guillipcha,San Pedro de Yambajalca,Amazonas,-6.50786,-77.81351667,411
+20,Saviajcha,San Pedro de Yambajalca,Amazonas,-6.511876667,-77.81574167,78
+21,Camellan,San Pedro de Yambajalca,Amazonas,-6.524993333,-77.814045,78
+22,Chillan,San Pedro de Yambajalca,Amazonas,-6.511273333,-77.80773333,78
+23,Airecampo,Diosan / San Pedro de Yambajalca,Amazonas,-6.5325,-77.8115,1054
+24,Gorge,Diosan / San Pedro de Yambajalca,Amazonas,-6.528345,-77.82256,643
+25,Shundura,San Pedro de Yambajalca,Amazonas,-6.519731667,-77.826335,643
+26,San Juan De Eñara,San Juan de Eñara / San Pedro de Yambajalca,Amazonas,-6.514218333,-77.82511333,643
+27,Huancas,Huancas,Amazonas,-6.525763333,-77.82183333,643
+28,Yunga,Huancas,Amazonas,-6.53239,-77.821565,177
+29,La Hoya,Huancas,Amazonas,-6.531591667,-77.826835,177
+30,La Pitaya,Huancas,Amazonas,-6.533138333,-77.83191167,210
+31,Maray Pampa,Huancas,Amazonas,-6.539723333,-77.81572833,365
+32,Cajshej,La Jalca,Amazonas,-6.55843,-77.814255,365
+33,Quishual,La Jalca,Amazonas,-6.550201667,-77.82745,764
+34,Samana,La Jalca,Amazonas,-6.547943333,-77.81977167,764
+35,Achupa,La Jalca,Amazonas,-6.460615,-77.82393333,764
+36,Buenavista,La Jalca,Amazonas,-6.457778333,-77.83907833,764
+37,Huacas,La Jalca,Amazonas,-6.490521667,-77.81014,764
+38,Nuevo Huacas,La Jalca,Amazonas,-6.49094,-77.80478333,991
+39,Yumal,La Jalca,Amazonas,-6.498925,-77.81066,991
+40,Shingache,La Jalca,Amazonas,-6.505918333,-77.82178,991
+41,Buiquil,La Jalca,Amazonas,-6.51115,-77.83945833,1610
+42,Quimbaleran,La Jalca,Amazonas,-6.50588,-77.83376333,1610
+43,Monstis,La Jalca,Amazonas,-6.416808333,-77.82256667,89
+44,Pachaj,La Jalca,Amazonas,-6.399118333,-77.81768667,-65
+45,Alonso De Alvarado,La Jalca,Amazonas,-6.482069975,-77.80897999,-65
+46,Teneria,La Jalca,Amazonas,-6.487001666,-77.80651,769
+47,San Pedro Cruz,La Jalca,Amazonas,-6.49757,-77.834135,769
+48,Culluna,La Jalca,Amazonas,-6.498981667,-77.84242667,588
+49,Shoime,La Jalca,Amazonas,-6.478825,-77.86022,588
+50,Zuta,La Jalca,Amazonas,-6.496288333,-77.85324,588
+51,Canguillo,La Jalca,Amazonas,-6.512981667,-77.84776,735
+52,Ubilon,La Jalca,Amazonas,-6.488433333,-77.83858833,735
+53,Zetenas,La Jalca,Amazonas,-6.518435,-77.83729333,10
+54,Shihual,La Jalca,Amazonas,-6.518833333,-77.83723167,42
+55,Cuanche,La Jalca,Amazonas,-6.482503333,-77.83484,411
+56,Tolape,La Jalca,Amazonas,-6.509988333,-77.82425333,411
+57,Yumpe (Nuevo Yumpe),La Jalca,Amazonas,-6.503631667,-77.82717167,411
+58,Cashlon,La Jalca,Amazonas,-6.493861667,-77.81357333,411
+59,Calatij,La Jalca,Amazonas,-6.504401667,-77.82243,411
+60,Potquin,La Jalca,Amazonas,-6.50924,-77.82064333,411
+61,Cuito,La Jalca,Amazonas,-6.50786,-77.81351667,411
+62,Lopetranca,La Jalca,Amazonas,-6.511876667,-77.81574167,78
+63,Lamilan,La Jalca,Amazonas,-6.524993333,-77.814045,78
+64,Cueyqueta,La Jalca,Amazonas,-6.511273333,-77.80773333,78
+65,Tiolomo,La Jalca,Amazonas,-6.5325,-77.8115,1054
+66,Chacango,La Jalca,Amazonas,-6.528345,-77.82256,643
+67,Ponga,La Jalca,Amazonas,-6.519731667,-77.826335,643
+68,Caulingas,La Jalca,Amazonas,-6.514218333,-77.82511333,643
+69,Usquita,La Jalca,Amazonas,-6.525763333,-77.82183333,643
+70,Lojshol,La Jalca,Amazonas,-6.53239,-77.821565,177
+71,Cuchcat,La Jalca,Amazonas,-6.531591667,-77.826835,177
+72,Quelucas,La Jalca,Amazonas,-6.533138333,-77.83191167,210
+73,Justamante,La Jalca,Amazonas,-6.539723333,-77.81572833,365
+74,Pengote,La Jalca,Amazonas,-6.55843,-77.814255,365
+75,Quillunya,La Jalca,Amazonas,-6.550201667,-77.82745,764
+76,Loquin,La Jalca,Amazonas,-6.547943333,-77.81977167,764
+77,Quiusha,La Jalca,Amazonas,-6.460615,-77.82393333,764
+78,Nuevo Progreso,La Jalca,Amazonas,-6.457778333,-77.83907833,764
+79,Ramos Pampa,La Jalca,Amazonas,-6.490521667,-77.81014,764
+80,Tayancpata,La Jalca,Amazonas,-6.49094,-77.80478333,991
+81,Tajsh Cuchia,La Jalca,Amazonas,-6.498925,-77.81066,991
+82,Tres Cruces,La Jalca,Amazonas,-6.505918333,-77.82178,991
+83,Cuyto Fila,La Jalca,Amazonas,-6.51115,-77.83945833,1610
+84,Pajpata,La Jalca,Amazonas,-6.50588,-77.83376333,1610
+85,Huallatani,Huallatani Millutayani anexos,Puno,-15.97794724,-70.19499399,643
+86,Jichuyo Pamaya,Jichuyo Pamaya,Puno,-15.93008186,-70.03234402,643
+87,Mirador Parque,Uros Chulluni,Puno,-15.81700308,-69.99137593,177
+88,Erpocco,Huallatani Millutayani anexos,Puno,-15.95908782,-70.15196229,177
+89,Patipiña,Huallatani Millutayani anexos,Puno,-15.97534782,-70.15906229,210
+90,Millotayane,Huallatani Millutayani anexos,Puno,-15.92244606,-70.12583145,365
+91,Chimu Central,Chimu,Puno,-15.85352767,-69.9652948,365
+92,Charajuna,Chimu,Puno,-15.85519181,-69.9615641,764
+93,San Salvador,Yanamayo,Puno,-15.82122149,-70.05019285,764
+94,Chuaña,Huallatani Millutayani anexos,Puno,-15.93158952,-70.14766597,764
+95,Kiviani,Huallatani Millutayani anexos,Puno,-15.91669827,-70.14691762,764
+96,San Jose De Pucani,San Jose de Pucani,Puno,-15.93086349,-70.08388464,764
+97,Sucria,Huallatani Millutayani anexos,Puno,-15.9415424,-70.14461749,991
+98,Uros Chulluni (Orconplaya),Uros Chulluni,Puno,-15.81524691,-69.9934481,991
+99,Uros Chulluni (Santa Maria Cucho),Uros Chulluni,Puno,-15.81188155,-69.99382005,991
+100,Catahui Apacheta,Pusalaya Atojccollo,Puno,-15.91645589,-70.01536315,1610
+101,Socca,Villa Socca,Puno,-15.90638,-69.69619833,1610
+102,Kemacco,Santa Rosa de Yanaque,Puno,-15.92956667,-69.71030167,89
+103,Huitara,Santa Rosa de Yanaque,Puno,-15.93078,-69.70936333,-65
+104,Ccoraja,Santa Rosa de Yanaque,Puno,-15.93620333,-69.70736167,-65
+105,Challapampa,Capalla anexo Laccone Futunco / Santa Rosa de Yanaque,Puno,-15.94098333,-69.70120333,769
+106,Sacari,Santa Rosa de Yanaque,Puno,-15.93734833,-69.70267833,769
+107,Yanaque Amaya,Santa Rosa de Yanaque,Puno,-15.94669333,-69.69506833,588
+108,Iscata Cumpapata,Iscata,Puno,-15.96183833,-69.62866167,588
+109,Surupa,Surupa,Puno,-15.95552,-69.68525,588
+110,Parcocota,Chamchilla Chusamarca Huilacaya Parccoccota,Puno,-15.95612333,-69.80634667,735
+111,Huilacaya,Chamchilla Chusamarca Huilacaya Parccoccota,Puno,-15.95762167,-69.814035,735
+112,Chusamarca,Chamchilla Chusamarca Huilacaya Parccoccota,Puno,-15.968575,-69.81249333,10
+113,Iscapatasa,Isca Pataza,Puno,-15.96476167,-69.67405333,42
+114,Ccopamaya,Ccopamaya,Puno,-15.98612333,-69.63748667,411
+115,Juruhuanani,Juruhuanani,Puno,-15.98505667,-69.7163,411
+116,Chanchilla,Chamchilla Chusamarca Huilacaya Parccoccota,Puno,-15.967075,-69.824285,411
+117,Huantacachi Chila,Huantacachi Chila,Puno,-15.99290667,-69.67362833,411
+118,Huañoscuro,Huañuscuro,Puno,-15.98982519,-69.62767302,411
+119,Pamaya Jichuyo,Pamaya Jichuyo,Puno,-16.00147833,-69.62068833,411
+120,Jayu Jayu,Jayu Jayu,Puno,-15.9975165,-69.63358426,411
+121,Thunco,Thunco,Puno,-16.00472333,-69.71047833,78
+122,Caritamaya,Caritamaya,Puno,-16.008245,-69.75628167,78
+123,Mollocco,Molloco,Puno,-16.005735,-69.77563833,78
+124,Huillcapata,Huillcapata,Cusco,-13.4597644,-71.9273199,991
+125,Seqqueraccay,Seqqueraccay,Cusco,-13.46172947,-71.93727515,991
+126,Paucarpata,Paucarpata Mandorani,Cusco,-13.47448125,-71.92743777,991
+127,Qorimarca,Ccorimarca,Cusco,-13.46887879,-71.94019473,1610
+128,Queser Chico,Queser Chico,Cusco,-13.46976319,-71.95151522,1610
+129,Tambomachay,Tambomachay Pucara,Cusco,-13.48171842,-71.96592744,643
+130,Huayllarcocha,Huayllarccocha,Cusco,-13.48950994,-71.96631435,643
+131,Yuncaypata,Yuncaypata,Cusco,-13.48956732,-71.94605517,177
+132,Los Huertos,Yuncaypata,Cusco,-13.50828139,-71.94536708,177
+133,Kallachaca,Yuncaypata,Cusco,-13.51248571,-71.947578,210
+134,Leon Hiyoc,Huancabamba,Cusco,-13.53174108,-72.00962683,365
+135,Pultiyoc,Huancabamba,Cusco,-13.53729036,-72.02351388,365
+136,Kello Kaka,Huancabamba,Cusco,-13.5359869,-72.03490979,764
+137,Chaconayoc,Huancabamba,Cusco,-13.53448948,-72.00797171,764
+138,Huancabamba,Huancabamba,Cusco,-13.54337441,-72.02975653,764
+139,Huchuy Llanacancha,Huancabamba,Cusco,-13.54156998,-72.01669998,764
+140,Ccochapata,Huancabamba,Cusco,-13.54260151,-72.02412332,764
+141,Huayllacancha,Huancabamba,Cusco,-13.54139212,-72.02433254,991
+142,Llamacancha,Huancabamba,Cusco,-13.52824405,-72.01107338,991
+143,Piccho Mulachayoc,Huancabamba,Cusco,-13.53711998,-72.02055998,991
+144,Agricultores Ecologicos,Huancabamba,Cusco,-13.52729939,-72.00642768,1610
+145,Ccorca,Ccorcca Ayllo,Cusco,-13.58476959,-72.05914347,1610
+146,Cusibamba,Cusibamba,Cusco,-13.54487167,-72.08083333,89
+147,Quishuarcancha,Quishuarcancha,Cusco,-13.56336833,-72.035495,-65
+148,Huayllay,Huayllay,Cusco,-13.56725,-72.06664833,-65
+149,Rocacanchapata,Totora,Cusco,-13.57038,-72.15636,769
+150,Totora,Totora,Cusco,-13.57279724,-72.10551745,769
+151,Ccorcca Ayllu,Ccorcca Ayllo,Cusco,-13.58227833,-72.07205833,588
+152,Quisaccasa,Totora,Cusco,-13.577335,-72.13663,588
+153,Tamborpugio,San Isidro de Ccarhuis,Cusco,-13.57884,-72.02131,588
+154,San Antonio,San Antonio,La Libertad,-8.220738334,-77.32504167,177
+155,Huanapampa,La Victoria,La Libertad,-8.249911666,-77.27541167,177
+156,Chiquiacocha,La Victoria,La Libertad,-8.271061667,-77.28935333,210
+157,Collay,La Victoria,La Libertad,-8.259073333,-77.28661833,365
+158,San Pedro,San Pedro,La Libertad,-8.273093333,-77.27447333,365
+159,Matapa,La Victoria,La Libertad,-8.277646667,-77.30263167,764
+160,Queros,La Victoria / Queros,La Libertad,-8.284283333,-77.28097167,764
+161,Seceragra,La Victoria,La Libertad,-8.29104,-77.26145667,764
+162,Cajaspampa,La Victoria,La Libertad,-8.288965,-77.24823833,764
+163,Gochapita,La Victoria,La Libertad,-8.288805,-77.26626833,764
+164,Allauca,La Victoria,La Libertad,-8.296748333,-77.285285,991
+165,Suyopampa,La Victoria,La Libertad,-8.286071667,-77.290445,991
+166,Nuevo Progreso,La Victoria,La Libertad,-8.296173333,-77.27947167,991
+167,Antacolpa,La Victoria,La Libertad,-8.305096667,-77.250385,1610
+168,Ucchapampa,La Victoria,La Libertad,-8.297421667,-77.23509,1610
+169,Chaquicocha,Chaquicocha / La Victoria,La Libertad,-8.311873333,-77.23750833,643
+170,Huaricchaca,La Victoria,La Libertad,-8.324506666,-77.22656667,643
+171,Pampa Grande,La Victoria,La Libertad,-8.317435,-77.25465833,177
+172,Nueva Esperanza,La Victoria,La Libertad,-8.319866667,-77.244225,177
+173,Huancas,Huancas,La Libertad,-8.349538333,-77.32387167,210
+174,Cielo Andino,La Victoria,La Libertad,-8.331025,-77.2291,365
+175,Huarimarca,La Victoria,La Libertad,-8.32112,-77.217035,365
+176,Tambillos,La Victoria,La Libertad,-8.330471666,-77.21414167,764
+177,Alborada De Los Andes,La Victoria,La Libertad,-8.343808333,-77.19358333,764
+178,Huarusaga (Cuncayo),La Victoria,La Libertad,-8.338171667,-77.20930167,764
+179,Vaqueria De Los Andes,La Victoria,La Libertad,-8.350911666,-77.19265167,764
+180,Yurajpaccha,La Victoria,La Libertad,-8.376616667,-77.17686167,764
+181,Huashiraj,La Victoria,La Libertad,-8.300968242,-77.28820016,991
+182,La Florida,La Victoria,La Libertad,-8.297385,-77.26154333,991
+183,Alto La Cruz,La Victoria,La Libertad,-8.296593333,-77.26459667,991
+184,Cañaris,San Juan de Cañaris,Lambayeque,-6.046143899,-79.26530014,89
+185,Palo Blanco,Tupac Amaru II,Lambayeque,-6.080903333,-79.58167,-65
+186,San Jose Obrero,San Juan de Cañaris,Lambayeque,-5.938808333,-79.28803667,-65
+187,Sigues,San Juan de Cañaris,Lambayeque,-6.001035447,-79.28515925,769
+188,Saucepampa,San Juan de Cañaris,Lambayeque,-5.985705,-79.297485,769
+189,Machucara,Tupac Amaru II,Lambayeque,-5.999581667,-79.574735,588
+190,La Succha,Tupac Amaru II,Lambayeque,-5.93261,-79.49749333,588
+191,Molino,Tupac Amaru II,Lambayeque,-5.929726667,-79.543835,588
+192,Corralpampa,Tupac Amaru II,Lambayeque,-5.942701667,-79.416975,735
+193,Hierba Buena,Tupac Amaru II,Lambayeque,-5.987238333,-79.51905667,735
+194,El Espinal,Tupac Amaru II,Lambayeque,-5.949388333,-79.496285,10
+195,Santa Rosa,Tupac Amaru II,Lambayeque,-5.949926667,-79.50819,42
+196,Taurimarca,Tupac Amaru II,Lambayeque,-6.006946667,-79.37189833,411
+197,Pamaca,San Juan de Cañaris,Lambayeque,-6.017281667,-79.29762667,411
+198,Seg Seg,San Juan de Cañaris,Lambayeque,-6.034556227,-79.28552442,411
+199,Pishcolpampa,San Juan de Cañaris,Lambayeque,-5.998931667,-79.19226,411
+200,Casa Quemada,Tupac Amaru II,Lambayeque,-5.987708333,-79.38754667,411
+201,Santa Lucia,Tupac Amaru II,Lambayeque,-5.98106,-79.43786833,411
+202,Cangrejera,Tupac Amaru II,Lambayeque,-6.008783333,-79.53405333,411
+203,Quirichima,San Juan de Cañaris,Lambayeque,-6.011148333,-79.34836667,78
+204,Pichanapampa,San Juan de Cañaris,Lambayeque,-5.996041667,-79.26947667,78
+205,Pillona,San Juan de Cañaris,Lambayeque,-6.004869974,-79.27334999,78
+206,Chilasque,San Juan de Cañaris,Lambayeque,-6.024848333,-79.20283,1054
+207,Lique,San Juan de Cañaris,Lambayeque,-6.038558333,-79.17706667,643
+208,Miraflores,San Juan de Cañaris,Lambayeque,-6.043288333,-79.34802833,643
+209,Alisal,San Juan de Cañaris,Lambayeque,-6.050801667,-79.26328833,643
+210,Chorro,San Juan de Cañaris,Lambayeque,-5.982421667,-79.25372667,643
+211,Quinua,San Juan de Cañaris,Lambayeque,-6.035538333,-79.18676833,177
+212,Sabila,San Juan de Cañaris,Lambayeque,-6.080971667,-79.15641,177
+213,Muyaca,San Juan de Cañaris,Lambayeque,-6.006815,-79.24039333,210

@@ -1,0 +1,53 @@
+﻿sourceId,source_village,source_province,source_departament,source_latitude,source_longitude,source_altitude,destination_id,destination_village,destination_province,destination_departament,destination_latitud,destination_longitud,destination_altitud,distance
+1,La Jalca,La Jalca,Amazonas,-6.41680833,-77.8225667,89,2,Caclic,Huancas,Amazonas,-6.39911833,-77.8176867,-65,4
+3,El Tapial,Huancas,Amazonas,-6.48206998,-77.80898,-65,4,Asuncion,Goncha,Amazonas,-6.48700167,-77.80652,769,2
+1,La Jalca,La Jalca,Amazonas,-6.41680833,-77.8225667,89,4,Asuncion,Goncha,Amazonas,-6.48700167,-77.80652,769,15
+3,El Tapial,Huancas,Amazonas,-6.48206998,-77.80898,-65,2,Caclic,Huancas,Amazonas,-6.39911833,-77.8176867,-65,17
+4,Asuncion,Goncha,Amazonas,-6.48700167,-77.80652,769,2,Caclic,Huancas,Amazonas,-6.39911833,-77.8176867,-65,18
+5,Vista Hermosa,Goncha,Amazonas,-6.49757,-77.834135,769,4,Asuncion,Goncha,Amazonas,-6.48700167,-77.80652,769,5
+6,Chorro,Goncha,Amazonas,-6.49898167,-77.8424267,588,5,Vista Hermosa,Goncha,Amazonas,-6.49757,-77.834135,769,3
+5,Vista Hermosa,Goncha,Amazonas,-6.49757,-77.834135,769,3,El Tapial,Huancas,Amazonas,-6.48206998,-77.80898,-65,9
+7,Rachil,Goncha,Amazonas,-6.478825,-77.86022,588,6,Chorro,Goncha,Amazonas,-6.49898167,-77.8424267,588,8
+7,Rachil,Goncha,Amazonas,-6.478825,-77.86022,588,4,Asuncion,Goncha,Amazonas,-6.48700167,-77.80652,769,15
+8,Batan,Goncha,Amazonas,-6.49628833,-77.85324,588,7,Rachil,Goncha,Amazonas,-6.478825,-77.86022,588,5.5
+8,Batan,Goncha,Amazonas,-6.49628833,-77.85324,588,6,Chorro,Goncha,Amazonas,-6.49898167,-77.8424267,588,4
+9,Pollan,Goncha,Amazonas,-6.51298167,-77.84776,735,6,Chorro,Goncha,Amazonas,-6.49898167,-77.8424267,588,4
+9,Pollan,Goncha,Amazonas,-6.51298167,-77.84776,735,5,Vista Hermosa,Goncha,Amazonas,-6.49757,-77.834135,769,5
+9,Pollan,Goncha,Amazonas,-6.51298167,-77.84776,735,8,Batan,Goncha,Amazonas,-6.49628833,-77.85324,588,7
+86,Jichuyo Pamaya,Jichuyo Pamaya,Puno,-15.93008186,-70.03234402,643,88,Erpocco,Huallatani Millutayani anexos,Puno,-15.95908782,-70.15196229,177,10
+86,Jichuyo Pamaya,Jichuyo Pamaya,Puno,-15.9300819,-70.032344,643,85,Huallatani,Huallatani Millutayani anexos,Puno,-15.97794724,-70.19499399,643,15
+89,Patipiña,Huallatani Millutayani anexos,Puno,-15.97534782,-70.15906229,210,85,Huallatani,Huallatani Millutayani anexos,Puno,-15.97794724,-70.19499399,643,5
+89,Patipiña,Huallatani Millutayani anexos,Puno,-15.97534782,-70.15906229,210,88,Erpocco,Huallatani Millutayani anexos,Puno,-15.95908782,-70.15196229,177,3
+90,Millotayane,Huallatani Millutayani anexos,Puno,-15.92244606,-70.12583145,365,85,Huallatani,Huallatani Millutayani anexos,Puno,-15.97794724,-70.19499399,643,11
+91,Chimu Central,Chimu,Puno,-15.85352767,-69.9652948,365,90,Millotayane,Huallatani Millutayani anexos,Puno,-15.92244606,-70.12583145,365,25
+90,Millotayane,Huallatani Millutayani anexos,Puno,-15.92244606,-70.12583145,365,88,Erpocco,Huallatani Millutayani anexos,Puno,-15.95908782,-70.15196229,177,4
+85,Huallatani,Huallatani Millutayani anexos,Puno,-15.97794724,-70.19499399,643,88,Erpocco,Huallatani Millutayani anexos,Puno,-15.95908782,-70.15196229,177,7
+86,Jichuyo Pamaya,Jichuyo Pamaya,Puno,-15.9300819,-70.032344,643,91,Chimu Central,Chimu,Puno,-15.85352767,-69.9652948,365,15
+125,Seqqueraccay,Seqqueraccay,Cusco,-13.46172947,-71.93727515,991,126,Paucarpata,Paucarpata Mandorani,Cusco,-13.47448125,-71.92743777,991,15
+127,Qorimarca,Ccorimarca,Cusco,-13.46887879,-71.94019473,1610,128,Queser Chico,Queser Chico,Cusco,-13.46976319,-71.95151522,1610,6
+126,Paucarpata,Paucarpata Mandorani,Cusco,-13.47448125,-71.92743777,991,127,Qorimarca,Ccorimarca,Cusco,-13.46887879,-71.94019473,1610,11
+125,Seqqueraccay,Seqqueraccay,Cusco,-13.46172947,-71.93727515,991,127,Qorimarca,Ccorimarca,Cusco,-13.46887879,-71.94019473,1610,6
+129,Tambomachay,Tambomachay Pucara,Cusco,-13.48171842,-71.96592744,643,126,Paucarpata,Paucarpata Mandorani,Cusco,-13.47448125,-71.92743777,991,40
+130,Huayllarcocha,Huayllarccocha,Cusco,-13.48950994,-71.96631435,643,128,Queser Chico,Queser Chico,Cusco,-13.46976319,-71.95151522,1610,26
+128,Queser Chico,Queser Chico,Cusco,-13.46976319,-71.95151522,1610,129,Tambomachay,Tambomachay Pucara,Cusco,-13.48171842,-71.96592744,643,20
+130,Huayllarcocha,Huayllarccocha,Cusco,-13.48950994,-71.96631435,643,126,Paucarpata,Paucarpata Mandorani,Cusco,-13.47448125,-71.92743777,991,41
+129,Tambomachay,Tambomachay Pucara,Cusco,-13.48171842,-71.96592744,643,130,Huayllarcocha,Huayllarccocha,Cusco,-13.48950994,-71.96631435,643,7
+131,Yuncaypata,Yuncaypata,Cusco,-13.48956732,-71.94605517,177,128,Queser Chico,Queser Chico,Cusco,-13.46976319,-71.95151522,1610,20
+131,Yuncaypata,Yuncaypata,Cusco,-13.48956732,-71.94605517,177,130,Huayllarcocha,Huayllarccocha,Cusco,-13.48950994,-71.96631435,643,18
+131,Yuncaypata,Yuncaypata,Cusco,-13.48956732,-71.94605517,177,126,Paucarpata,Paucarpata Mandorani,Cusco,-13.47448125,-71.92743777,991,23
+154,San Antonio,San Antonio,La Libertad,-8.220738334,-77.32504167,177,155,Huanapampa,La Victoria,La Libertad,-8.249911666,-77.27541167,177,21
+156,Chiquiacocha,La Victoria,La Libertad,-8.271061667,-77.28935333,210,157,Collay,La Victoria,La Libertad,-8.259073333,-77.28661833,365,6
+157,Collay,La Victoria,La Libertad,-8.259073333,-77.28661833,365,154,San Antonio,San Antonio,La Libertad,-8.220738334,-77.32504167,177,20
+158,San Pedro,San Pedro,La Libertad,-8.273093333,-77.27447333,365,159,Matapa,La Victoria,La Libertad,-8.277646667,-77.30263167,764,14
+161,Seceragra,La Victoria,La Libertad,-8.29104,-77.26145667,764,158,San Pedro,San Pedro,La Libertad,-8.273093333,-77.27447333,365,12
+159,Matapa,La Victoria,La Libertad,-8.277646667,-77.30263167,764,156,Chiquiacocha,La Victoria,La Libertad,-8.271061667,-77.28935333,210,7
+162,Cajaspampa,La Victoria,La Libertad,-8.288965,-77.24823833,764,161,Seceragra,La Victoria,La Libertad,-8.29104,-77.26145667,764,8
+157,Collay,La Victoria,La Libertad,-8.259073333,-77.28661833,365,155,Huanapampa,La Victoria,La Libertad,-8.249911666,-77.27541167,177,8
+154,San Antonio,San Antonio,La Libertad,-8.220738334,-77.32504167,177,159,Matapa,La Victoria,La Libertad,-8.277646667,-77.30263167,764,22
+156,Chiquiacocha,La Victoria,La Libertad,-8.271061667,-77.28935333,210,158,San Pedro,San Pedro,La Libertad,-8.273093333,-77.27447333,365,6
+157,Collay,La Victoria,La Libertad,-8.259073333,-77.28661833,365,158,San Pedro,San Pedro,La Libertad,-8.273093333,-77.27447333,365,9
+155,Huanapampa,La Victoria,La Libertad,-8.249911666,-77.27541167,177,158,San Pedro,San Pedro,La Libertad,-8.273093333,-77.27447333,365,11
+154,San Antonio,San Antonio,La Libertad,-8.220738334,-77.32504167,177,156,Chiquiacocha,La Victoria,La Libertad,-8.271061667,-77.28935333,210,24
+160,Queros,La Victoria / Queros,La Libertad,-8.284283333,-77.28097167,764,159,Matapa,La Victoria,La Libertad,-8.277646667,-77.30263167,764,9
+160,Queros,La Victoria / Queros,La Libertad,-8.284283333,-77.28097167,764,158,San Pedro,San Pedro,La Libertad,-8.273093333,-77.27447333,365,4
+160,Queros,La Victoria / Queros,La Libertad,-8.284283333,-77.28097167,764,161,Seceragra,La Victoria,La Libertad,-8.29104,-77.26145667,764,10

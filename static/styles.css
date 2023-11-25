@@ -1,0 +1,217 @@
+.mapa{
+    width: 100%;
+    height: 500px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+.logo{
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    font-size: 1.1em;
+    transition: font-size 0.3s ease-in-out;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.log{
+    
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+}
+h1{
+    
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 1.5rem;
+    margin-inline: 15vh;
+}
+body{
+    background-color: #ffffff;
+}
+
+.header{
+    background-color: #212529;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 15vw;
+    font-size: 0.95rem;
+    color: #fff;
+    letter-spacing: 0.0625em;
+}
+
+.header .logo{
+    cursor: pointer;
+}
+
+.header .logo img{
+    height: 70px;
+    width: auto;
+    transition: all 0.3s;
+}
+
+.header .logo img:hover{
+    transform: scale(1.2);
+}
+
+.header .nav-links{
+    list-style: none;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.header .nav-links li{
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    display: inline-block;
+    padding: 0 20px;    
+}
+
+.header .nav-links li:hover{
+    transform: scale(1.1);
+}
+
+.header .nav-links a{
+    
+    color: #eceff1;
+    text-decoration: none;    
+}
+
+.header .nav-links li a:hover{
+    color: #ffbc0e;
+}
+
+.header .btn button{
+    font-weight: 700;
+    color: #1b3039;
+    padding: 10%;
+    background: #eceff1;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.header .btn button:hover{
+    background-color: #e2f1f8;
+    color: #ffbc0e;
+    transform: scale(1.1);
+}
+.cardall{
+    border: 0px solid #ccc;
+    border-radius: 20px;
+    box-shadow: 0 5px 9px rgba(0, 0, 0, 0.2);
+    padding: 3vh;
+    margin-inline: 15vh;
+    margin-bottom: 2vh;
+    background-color: rgb(255, 225, 225);
+}
+.labell{
+    
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin: 1.5rem;
+}
+.card {
+    border: 0px solid #ccc;
+    border-radius: 20px;
+    box-shadow: 0 5px 9px rgba(0, 0, 0, 0.2);
+    padding-inline: 3vh;
+    padding-top: 1vh;
+    padding-bottom: 2vh;
+    margin-top: 2vh;
+    background-color: rgb(255, 255, 255);
+  }
+  .card3 {
+    border: 0px solid #ccc;
+    border-radius: 20px;
+    box-shadow: 0 5px 9px rgba(0, 0, 0, 0.2);
+    padding: 3vh;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+  }
+  .card4 {
+    border: 0px solid #ccc;
+    border-radius: 15px;
+    box-shadow: 0 5px 9px rgba(0, 0, 0, 0.2);
+    padding: 2vh;
+    
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    transition: transform 0.3s ease-in-out;
+  }
+  .card4:hover {
+    background-color: rgb(243, 242, 242);
+    transform: scale(1.05); /* Aumentamos el tamaño en un 5% */
+  }
+  .card5 {
+    border: 0px solid #ccc;
+    padding: 1vh;
+    border-radius: 13px;
+    background-color: rgb(243, 242, 242);
+    box-shadow: 0 5px 9px rgba(0, 0, 0, 0.2);
+  }
+  .card-body {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  h2 {
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+    font-size: 1.1rem;
+    margin: 1rem;
+  }
+  
+  .mapa {
+    width: 100%;
+    height: 400px;
+  }
+  .tabla{
+    display: flex;
+    justify-content: center;
+  }
+  .red-button {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-inline: 2vw;
+    margin-top: 0.4vw;
+    margin-bottom: 0.4vw;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700; 
+}
+select {
+    padding: 10px;
+    padding-inline: 1vw;
+    font-size: 16px;
+    border-radius: 20px;
+    border: 0px solid #ccc;
+    
+  }
+  select option {
+    font-size: 16px;
+    border: 0px solid #ccc;
+  }
+  
+  /* Cambiar el estilo del borde cuando se enfoca el select */
+  select:focus {
+    border-color: red;
+    outline: none;
+  }
